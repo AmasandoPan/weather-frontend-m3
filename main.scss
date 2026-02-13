@@ -1,6 +1,17 @@
+//Configuración 
 @import 'base/variables';
+@import 'base/mixins';
+
+//Base
 @import 'base/reset';
+
+//Layout 
 @import 'layout/header';
 @import 'layout/footer';
+
+//Modules (Componentes)
 @import 'modules/weather-card';
+@import 'modules/buttons';
+
+//State (Estados)
 @import 'state/weather-states';
