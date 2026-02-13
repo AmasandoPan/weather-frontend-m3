@@ -38,11 +38,11 @@ Si quieres clonar este proyecto y ejecutarlo en tu máquina local, sigue estos p
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+    git clone [https://github.com/AmasandoPan/weather-frontend-m2.git]
     ```
 2.  **Entra a la carpeta:**
     ```bash
-    cd TU_REPOSITORIO
+    cd weather-fronted-m2
     ```
 3.  **Abre el archivo `index.html`** en tu navegador favorito.
 
