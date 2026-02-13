@@ -41,16 +41,16 @@ He implementado la metodología **SMACSS** para la estructura de carpetas, combi
 
 ## ✨ Caracteristicas de esta versión (Modulo 3)
 
-**Arquitectura modular:**Uso de parciales de SASS importados en un archivo main.scss maestro.
+**Arquitectura modular:** Uso de parciales de SASS importados en un archivo main.scss maestro.
 
-**Modelo de cajas:**Aplicación técnica de padding, margins y borders para un layout limpio.
+**Modelo de cajas:** Aplicación técnica de padding, margins y borders para un layout limpio.
 
 **Responsividad Estricta:**
-  **Móvil ($\le$ 420px):**Cards apiladas en una sola columna para lectura vertical.
+  **Móvil ($\le$ 420px):** Cards apiladas en una sola columna para lectura vertical.
 
-  **Desktop ($\ge$ 1024px):**Layout multi-columna con espaciado coherente.
+  **Desktop ($\ge$ 1024px):** Layout multi-columna con espaciado coherente.
 
-**Mixins Personalizados:**Implementación de mixins para efectos de hover y centrado dinámico.
+**Mixins Personalizados:** Implementación de mixins para efectos de hover y centrado dinámico.
 
 ---
 
@@ -68,7 +68,7 @@ Si quieres clonar este proyecto y ejecutarlo en tu máquina local, sigue estos p
     ```bash
     git clone [https://github.com/AmasandoPan/weather-frontend-m3.git]
     ```
-2.  **Compilación de SASS:**Asegúrate de tener instalado Live Sass Compiler o similar para procesar /scss/main.scss hacia /css/main.css.
+2.  **Compilación de SASS:** Asegúrate de tener instalado Live Sass Compiler o similar para procesar `/scss/main.scss` hacia `/css/main.css`.
 
 3.  **Abre el archivo `index.html`** en tu navegador favorito.
 
